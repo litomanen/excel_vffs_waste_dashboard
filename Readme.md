@@ -62,15 +62,15 @@ Executive analytical model developed in Microsoft Excel to monitor, audit, and r
 
 ## Dashboard Preview
 
-![Descrição da Imagem](imagens/analise_geral.png)
+![Descrição da Imagem](imagens/1.jpg)
 
-![Descrição da Imagem](imagens/analise_geral_filtro.png)
+![Descrição da Imagem](imagens/2.jpg)
 
-![Descrição da Imagem](imagens/nao_conformidade.png)
+![Descrição da Imagem](imagens/3.jpg)
 
-![Descrição da Imagem](imagens/totais.png)
+![Descrição da Imagem](imagens/4.jpg)
 
-![Descrição da Imagem](imagens/totais_filtro.png)
+![Descrição da Imagem](imagens/5.jpg)
 
 ---
 
